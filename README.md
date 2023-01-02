@@ -1,5 +1,5 @@
 # WorldTrotter 
-An educational App form  *iOS Programming: The Big Nerd Ranch Guide (7th Edition)* book.
+An educational App from  *iOS Programming: The Big Nerd Ranch Guide (7th Edition)* book.
 
 ### What I used to implement WorldTrotter App: 
 - Views & The View Hierarchy
