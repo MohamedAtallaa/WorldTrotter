@@ -1,0 +1,8 @@
+/* Hyprid map view */
+"hybrid" = "هجين";
+
+/* Satallite map view */
+"satellite" = "قمر صناعي";
+
+/* Standard map view */
+"standard" = "نموذجي";
