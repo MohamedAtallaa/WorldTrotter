@@ -2,6 +2,7 @@
 An educational App from *iOS Programming: The Big Nerd Ranch Guide (7th Edition)* book.
 
 ### What I used to implement WorldTrotter App: 
+- UIKit & MapKit frameworks
 - Views & The View Hierarchy
 - The Autolayout System
 - ViewControllers & its veiws
