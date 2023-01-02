@@ -9,7 +9,7 @@ An educational App form  *iOS Programming: The Big Nerd Ranch Guide (7th Edition
 - Programmatic Views & Programmatic Constraints.
 - UISegmentedControl
 - Text input & delegation.
-- Internationalization & Localization (The App supports 3 different Languages <Arabic, English & Spanich>)
+- Internationalization & Localization (The App supports 3 different Languages <Arabic, English & Spanish>)
 
 
 ## App Overview 
